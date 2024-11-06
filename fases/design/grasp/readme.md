@@ -19,3 +19,7 @@ De verantwoordelijkheden moeten nauw verwant zijn aan de klasse waarin ze staan.
 ## Controller
 De verantwoordelijkheid van het behandelen van system events of activiteiten coördineren moeten horen bij een _controller_
 klasse. Dit is dan een _facade_.
+
+![](assets/controller.png)
+
+De controller is het object wat een _system operation_ als eerst ontvangt en coördineert, na de UI laag.
