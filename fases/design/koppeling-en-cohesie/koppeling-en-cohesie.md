@@ -11,7 +11,7 @@ veel effect hebben op andere modules.
 Lage koppeling betekent dat modules amper verbonden zijn met andere modules. Een verandering binnen één module zal 
 weinig effect hebben op andere modules.
 
-![](./coupling.webp)
+![](assets/coupling.webp)
 
 Van een hoger perspectief lijken modules samen te lopen, één te worden, wanneer er sprake is van hoge koppeling. Ze
 werken namelijk als één geheel, niet apart.
@@ -28,7 +28,7 @@ Hoge cohesie betekent dat elementen nauw verwant zijn. De elementen behalen same
 
 Lage cohesie betekent dat elementen losjes verwant zijn. De elementen behalen meerdere doelen.
 
-![](./cohesion.webp)
+![](assets/cohesion.webp)
 
 ## Nut
 Deze twee termen zijn handig om in te kunnen schatten hoe _onderhoudbaar_, _schaalbaar_ en _betrouwbaar_ een
